@@ -1,0 +1,1 @@
+insert into cliente (numerodocumento, tipodocumento, primernombre, segundonombre, primerapellido, segundoapellido, telefono, direccion, ciudadresidencia)  values ('23445322', 'C', 'Jaime', 'Andres Alberto', 'Olarte', 'Fuentes', '1234578', 'Calle falsa 123', 'Bucaramanga');
